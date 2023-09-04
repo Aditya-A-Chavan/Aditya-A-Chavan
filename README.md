@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya!    
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning database management, javascript, node, react
+- 🌱 I’m currently learning database management, django, javascript, 
 - 📫 How to reach me adityachavan271@gmail.com |  https://www.linkedin.com/in/aditya-chavan-651525272/ 
 
 <!---
