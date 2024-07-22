@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭 **Short Introduction:**  <br>A tech enthusiast and an aspiring programmer who absolutely loves to know how things work in the backend of the
+#  About Me:
+ **Short Introduction:**  <br>A tech enthusiast and an aspiring programmer who absolutely loves to know how things work in the backend of the
 digital world. Currently a student at KJ Somaiya College of Engineering, majoring in Information technology. Seeking opportunities to contribute to dynamic projects, collaborate with diverse teams, and continuously
 grow personally and professionally in a supportive environment.
-<br><br>👯 **I’m looking to collaborate on:**  <br>Backend Intensive Projects,  Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Amazon Web Services, Rust, Go and Solidity, Redis<br><br>⚡ **Fun fact:**  <br>I am a nerd when it comes to technology, computers. Hands-on experience trumps classroom learning in my view.
+<br><br> **I’m looking to collaborate on:**  <br>Backend Intensive Projects,  Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Amazon Web Services, Rust, Go and Solidity, Redis<br><br>⚡ **Fun fact:**  <br>I am a nerd when it comes to technology, computers. Hands-on experience trumps classroom learning in my view.
 
 
 ## 🌐 Socials:
