@@ -1,3 +1,4 @@
+<h1 align="center">Hey, I'm Aditya Chavan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"></h1>
 #  About Me:
  **Short Introduction:**  <br>A tech enthusiast and an aspiring programmer who absolutely loves to know how things work in the backend of the
 digital world. Currently a student at KJ Somaiya College of Engineering, majoring in Information technology. Seeking opportunities to contribute to dynamic projects, collaborate with diverse teams, and continuously
