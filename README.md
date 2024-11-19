@@ -2,7 +2,7 @@
 
 ## 👨‍💻About me:
 
-**Short Introduction:**  <br>A tech enthusiast and an aspiring programmer who absolutely loves to know how things work in the backend of the
+<br>A tech enthusiast and an aspiring programmer who absolutely loves to know how things work in the backend of the
 digital world. Currently a student at KJ Somaiya College of Engineering, majoring in Information technology. Seeking opportunities. I am a nerd when it comes to technology, computers. Hands-on experience trumps classroom learning in my view.
 
 
